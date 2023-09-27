@@ -318,103 +318,13 @@ import {
       image: seimage,
       source_code_link: "https://drive.google.com/file/d/1c9o8VCOfinKrEl92Sq8oyxEdvpuV-zsm/view?usp=drive_link",
     },
-    {
-      name: "MY PORTFOLIO 1.0",
-      description:
-        "My portfolio 1.0 without any framework. It is my first personal website. ",
-      tags: [
-        {
-          name: "HTML",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "CSS",
-          color: "green-text-gradient",
-        },
-        {
-          name: "JS",
-          color: "pink-text-gradient",
-        },
-        
-      ],
-      
-      image: pfimage,
-      source_code_link: "https://govindkalawate.netlify.app/",
-    },
-    {
-      name: "GPA Calculator",
-      description:
-        "A site that assists SRM students in calculating their GPA.",
-      tags: [
-        {
-          name: "HTML",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "CSS",
-          color: "green-text-gradient",
-        },
-        {
-          name: "JS",
-          color: "pink-text-gradient",
-        },
-        
-      ],
-      
-      image: gpaimage,
-      source_code_link: "https://srmistgpacalculator.netlify.app/",
-    },
-    {
-      name: "Temperature Converter",
-      description:
-        "Website to convert tempereture from celcius to fahrenheit.",
-      tags: [
-        {
-          name: "HTML",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "CSS",
-          color: "green-text-gradient",
-        },
-        {
-          name: "JS",
-          color: "pink-text-gradient",
-        },
-        
-      ],
-      
-      image: tcimage,
-      source_code_link: "https://temperature-converter-gk.netlify.app/",
-    },
-    {
-      name: "NETFLIX (clone)",
-      description:
-        "A website having similar functionality that of Netflix.",
-      tags: [
-        {
-          name: "HTML",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "CSS",
-          color: "green-text-gradient",
-        },
-        {
-          name: "JS",
-          color: "pink-text-gradient",
-        },
-        
-      ],
-      
-      image: netfliximage,
-      source_code_link: "https://netflixbygk.netlify.app/",
-    },
+
+    
    
     {
       name: "SOFTWARE APPLICATION DEVELOPMENT SCHEDULING",
       description:
-        "We are given a list of jobs that must be completed in order to complete a project, each with its own duration and benefit. Our objective is to arrange these actions in such a way that the overall time required to finish the project is minimised and the total benefit achieved from performing the tasks is maximised.",
+       "The goal is to minimize project completion time and maximize the total benefit from each job, based on its duration and benefit.",
       tags: [
         {
           name: "DAA",
@@ -435,7 +345,7 @@ import {
     {
       name: "Hotel Management",
       description:
-        "The hotel management project aims to facilitate hotel management through the creation of a portal. The portal provides information on room availability, customer bookings, check-in, check-out times, and generates reports. The system improves the efficiency of hotel operations by automating previously manual processes.Hotel staff can use the system to manage bookings. The project benefits the hotel industry by streamlining operations and improving customer service, resulting in increased profitability and customer satisfaction.",
+        "Aims to enhance efficiency by developing a portal .",
       tags: [
         {
           name: "UML",
@@ -452,30 +362,19 @@ import {
         {
           name: "TKinter",
           color: "blue-text-gradient",
+          
         },
+        {
+          name: "📝-NEW APP PUNCHIT COMING SOON...  Aims to assist SRM Faculties in reducing their salary cut pay!!!",
+          color: "blue-text-gradient",
+          
+        },
+        
       ],
       image: hotelimage,
       source_code_link: "https://drive.google.com/file/d/1ulByCoIHfvX_6tkUX_Og98XRwKU7UgL-/view?usp=drive_link",
     },
-    {
-      name: "PUNCHIT (coming soon......)",
-      description:
-        "An app that will remind SRM faculty members to punch their attendance after finishing the required number of hours of work.which will aid them in minimising their pay cut.  ",
-      tags: [
-        {
-          name: "Kotlin",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Android Development",
-          color: "green-text-gradient",
-        },
-        
-      ],
-      
-      image:ldimage ,
-      source_code_link: "",
-    },
+    
   ];
   
   export { services, technologies, experiences, testimonials, projects };
